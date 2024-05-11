@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b21be2e3.css",
-    "main.js": "/static/js/main.2ded596d.js",
-    "static/media/hands-coffee-smartphone-technology.jpg": "/static/media/hands-coffee-smartphone-technology.965fc91adb61102cc2bc.jpg",
-    "static/media/pexels-photo-9301290.jpg": "/static/media/pexels-photo-9301290.fa23eed25d136b8ad378.jpg",
-    "static/media/env.jpg": "/static/media/env.3fc1dfdf69265546299f.jpg",
-    "static/media/etude_marche.jpg": "/static/media/etude_marche.926341c78ea804a31bd0.jpg",
-    "static/media/social.jpg": "/static/media/social.7ff8b1fb293696eab70b.jpg",
+    "main.css": "/static/css/main.4fb1bef9.css",
+    "main.js": "/static/js/main.8826c3d3.js",
+    "static/media/formation.jpg": "/static/media/formation.497b2a35515e7b755494.jpg",
+    "static/media/strike-51212_1280.webp": "/static/media/strike-51212_1280.d0367d022831961f5210.webp",
+    "static/media/freelancer-763730_1280.jpg": "/static/media/freelancer-763730_1280.49761a2f74560b8f9c12.jpg",
+    "static/media/business-2904773_1280.webp": "/static/media/business-2904773_1280.db60ca3b2ce3dfbf42fc.webp",
+    "static/media/workspace-1280538_1280.webp": "/static/media/workspace-1280538_1280.53d42f0d897f4981ea50.webp",
+    "static/media/compass-7592447_1280.webp": "/static/media/compass-7592447_1280.3966ff71b2b87cd7bad2.webp",
+    "static/media/brushes-3129361_1280.webp": "/static/media/brushes-3129361_1280.b9b083a7b860c631f5d2.webp",
+    "static/media/black-naped-oriole-7580879_1280.webp": "/static/media/black-naped-oriole-7580879_1280.934c276064ab0f9f16a2.webp",
+    "static/media/telephone-3594206_1280.webp": "/static/media/telephone-3594206_1280.2738db51c3239d3f701a.webp",
+    "static/media/creativity-819371_1280.webp": "/static/media/creativity-819371_1280.c1d9d6ff74fdf433e78a.webp",
+    "static/media/slide.webp": "/static/media/slide.4c5549b3331d95ae6fbd.webp",
+    "static/media/urbain.webp": "/static/media/urbain.18a332da0b13298b67e4.webp",
     "index.html": "/index.html",
-    "main.b21be2e3.css.map": "/static/css/main.b21be2e3.css.map",
-    "main.2ded596d.js.map": "/static/js/main.2ded596d.js.map"
+    "main.4fb1bef9.css.map": "/static/css/main.4fb1bef9.css.map",
+    "main.8826c3d3.js.map": "/static/js/main.8826c3d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b21be2e3.css",
-    "static/js/main.2ded596d.js"
+    "static/css/main.4fb1bef9.css",
+    "static/js/main.8826c3d3.js"
   ]
 }
